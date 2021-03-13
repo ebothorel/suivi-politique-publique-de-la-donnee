@@ -1,0 +1,7 @@
+#+title: Mise en oeuvre des recommandations du rapport Bothorel
+
+- Le rapport pour une Politique publique de la donnée ([[https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/12/rapport_-_pour_une_politique_publique_de_la_donnee_-_23.12.2020__0.pdf][PDF]])
+- La [[https://www.gouvernement.fr/remise-du-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources][remise du rapport au gouvernement]] le 23 décembre 2021.
+- Vous abonner [[https://github.com/bzg/suivi-recommandations-bothorel/commits/main.atom][au flux RSS]] de ce dépôt pour le suivre
+
+
