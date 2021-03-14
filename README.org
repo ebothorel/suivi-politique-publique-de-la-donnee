@@ -1,11 +1,28 @@
 #+title: Mise en oeuvre des recommandations du rapport Bothorel
 
-- Le rapport pour une Politique publique de la donnée (PDF) : [[https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/12/rapport_-_pour_une_politique_publique_de_la_donnee_-_23.12.2020__0.pdf][rapport]] et [[https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/12/annexes_-_rapport_-_pour_une_politique_publique_de_la_donnee_-_23.12.2020.pdf][annexes]]
-- La [[https://www.gouvernement.fr/remise-du-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources][remise du rapport au gouvernement]] le 23 décembre 2021.
+Ce dépôt présente les avancées sur la mise en oeuvre des
+recommandations du rapport Bothorel pour une politique publique de la
+donnée, rapport [[https://www.gouvernement.fr/remise-du-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources][remis au Premier ministre]] en décembre 2020.
 
-Vous pouvez vous abonner [[https://github.com/bzg/suivi-recommandations-bothorel/commits/main.atom][au flux RSS]] de ce dépôt pour suivre les
-avancées sur la mise en oeuvre des recommandations du rapport.
+* Sources
 
-Ce dépôt est publié sous licence [[https://creativecommons.org/publicdomain/zero/1.0/][Creative Commons CC0 1.0]].
+- Le [[https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/12/rapport_-_pour_une_politique_publique_de_la_donnee_-_23.12.2020__0.pdf][rapport]] pour une Politique publique de la donnée (PDF)
+- Les [[https://www.gouvernement.fr/sites/default/files/contenu/piece-jointe/2020/12/annexes_-_rapport_-_pour_une_politique_publique_de_la_donnee_-_23.12.2020.pdf][annexes]] du rapport (PDF)
+- Les [[file:recommandations.org][recommandations]] du rapport
 
+* Suivre les avancées
 
+Pour suivre les avancées, vous pouvez vous abonner à [[https://mamot.fr/@au_numerique][ce compte Mastodon]] ou à [[twitter.com/au_numerique][ce compte Twitter]] : tous deux publient automatiquement les mises à jour de ce dépôt.
+
+Vous pouvez aussi vous abonner directement [[https://github.com/bzg/suivi-recommandations-bothorel/commits/main.atom][au flux RSS]] du dépôt ou le
+suivre via votre compte GitHub, si vous en avez un.
+
+* Contributions
+
+Si vous avez une information montrant une avancée sur la mise en
+oeuvre des recommandations du rapport Bothorel, n'hésitez pas à [[https://github.com/bzg/suivi-recommandations-bothorel/issues][ouvrir
+une issue]] sur ce dépôt ou à m'écrire : =bzg @ bzg.fr=.
+
+* Licence
+
+Le contenu du dépôt est publié sous licence [[https://creativecommons.org/publicdomain/zero/1.0/][Creative Commons CC0 1.0]].
