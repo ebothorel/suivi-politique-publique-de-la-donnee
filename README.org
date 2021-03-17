@@ -23,7 +23,7 @@ proposent donc un suivi de la mise en oeuvre des recommandations.
 Vous pouvez aussi vous abonner directement [[https://github.com/bzg/suivi-recommandations-bothorel/commits/main.atom][au flux RSS]] du dépôt ou le
 suivre via votre compte GitHub, si vous en avez un.
 
-** Contributions
+** Aidez-nous
 
 *Les contributions sont les bienvenues !*
 
