@@ -1,4 +1,4 @@
-#+title: Mise en oeuvre des recommandations du rapport Bothorel
+#+title: Suivre la mise en oeuvre des recommandations du rapport Bothorel
 
 Ce dépôt présente les avancées sur la mise en oeuvre des
 recommandations du rapport Bothorel pour une politique publique de la
