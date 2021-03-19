@@ -1,6 +1,14 @@
+* Légende et fonctionnement
+
+🔴 : Pas de nouvelles
+🟡 : Des éléments publiés
+🟢 : Mis en oeuvre
+
+Si des liens publics permettent de vérifier les efforts fait pour une recommandation, ces liens sont partagés sous la recommandation, faisant évoluer l'icone rouge vers le jaune puis le vert.
+
 * Recommandations transversales
 
-- Recommandation n°1 :: Initier un débat public sur les conditions de la confiance dans le numérique, permettant de définir les principes fondamentaux de sécurité et de transparence qui doivent s’imposer à la puissance publique.
+- Recommandation n°1 :: Initier un débat public sur les conditions de la confiance dans le numérique, permettant de définir les principes fondamentaux de sécurité et de transparence qui doivent s’imposer à la puissance publique
 
 - Recommandation n°2 :: Associer la société civile, par les consultations citoyennes et le Forum du Partenariat pour un gouvernement ouvert, à l’identification des jeux de données et des codes sources à ouvrir
 
