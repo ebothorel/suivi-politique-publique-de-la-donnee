@@ -1,12 +1,12 @@
-* Légende et fonctionnement
+* Lecture
 
-🔴 : Pas de nouvelles
+Lorsque des liens publics montrent des efforts faits pour mettre en oeuvre une recommandation, ils sont partagés sous la recommandation et permettent d'aller du rouge au jaune puis au vert :
 
-🟡 : Des éléments publiés
+🔴 Pas de nouvelles
 
-🟢 : Mis en oeuvre
+🟡 Des éléments publiés
 
-Si des liens publics permettent de vérifier les efforts fait pour une recommandation, ces liens sont partagés sous la recommandation, faisant évoluer l'icone rouge vers le jaune puis le vert.
+🟢 Mis en oeuvre
 
 * Recommandations transversales
 
